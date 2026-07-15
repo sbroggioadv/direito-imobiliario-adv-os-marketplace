@@ -1,0 +1,12 @@
+{
+  "SessionStart": [
+    {
+      "hooks": [
+        {
+          "type": "command",
+          "command": "echo 'direito-imobiliario-adv-os carregado — rode /start-imobiliario para configurar o escritorio ou /imobiliario-master para comecar.'"
+        }
+      ]
+    }
+  ]
+}

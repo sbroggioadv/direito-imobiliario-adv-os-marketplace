@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "direito-imobiliario-adv-os-marketplace",
+  "description": "Marketplace oficial do plugin Direito Imobiliario Adv-OS — sistema operacional do advogado imobiliario (extrajudicial/registral + judicial).",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "direito-imobiliario-adv-os",
+      "source": "./direito-imobiliario-adv-os",
+      "description": "Direito Imobiliario brasileiro ponta-a-ponta: contratos e due diligence, usucapiao e adjudicacao compulsoria extrajudicial, incorporacao, condominio e associacoes, locacao (Lei 8.245), acoes reais e possessorias, alienacao fiduciaria e hipoteca (Marco das Garantias), REURB e recursos ate STJ/STF.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}
