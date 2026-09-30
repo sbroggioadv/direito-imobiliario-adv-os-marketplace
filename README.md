@@ -10,7 +10,7 @@ Marketplace oficial do **direito-imobiliario-adv-os** (IA Combativa).
 > 👉 **[Adquirir a licença](https://pay.kirvano.com/be413229-d901-4ef7-bc78-0f4ff16561f2)**
 >
 > **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
-> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.io**.
 >
 > Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
 >
